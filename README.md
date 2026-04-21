@@ -25,7 +25,7 @@
 ## 🖼️ 成果展示
 
 ### 在线仪表盘（Tableau Public）
-[点击查看交互式仪表盘](https://public.tableau.com/app/profile/xin.li8038/viz/17767007771270/P1)
+[点击查看交互式仪表盘](https://public.tableau.com/app/profile/xin.li8038/viz/_17767007771270/P1_)
 
 ### 执行摘要页
 ![执行摘要页](https://github.com/wuxingzhu/pdd-spring-consumption-analysis/blob/master/01-成果展示/P1_执行摘要页.png?raw=true)
